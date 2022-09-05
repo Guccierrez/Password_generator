@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://guccierrez.github.io/Password_generator/">
     <img src="./password_generator.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,7 +19,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-=/password_generator
 This is my first project that I've built with javasctript. A password generator that can be modified to suit the users needs.
 
 
