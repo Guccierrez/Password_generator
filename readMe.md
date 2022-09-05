@@ -5,49 +5,21 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./password_generator.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">The Worlds(my) Bestest Password Generator</h3>
+  <h3 align="center">The Worlds (my) Bestest Password Generator</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A  password generator for all your needs.
     <br />
-
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Gerted</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+=/password_generator
 This is my first project that I've built with javasctript. A password generator that can be modified to suit the users needs.
 
 
@@ -109,7 +81,7 @@ Fabian Gutierrez - [fabiangutierrez580@gmail.com]
 (LinkedIn) - [www.linkedin.com/in/fabian-gutierrez-016523248]
 
 
-Project Link: [https://github.com/Guccierrez/Password_generator](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Guccierrez/Password_generator]
 
 
 
