@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://guccierrez.github.io/Password_generator/">
-    <img src="/assets/password_generator.png" alt="Logo" width="80" height="80">
+    <img src= "./assets/password_generator.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">The Worlds (my) Bestest Password Generator</h3>
